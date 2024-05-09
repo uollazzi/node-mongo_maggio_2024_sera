@@ -1,11 +1,5 @@
-# Template progetto node + Typescript
+# MongoDb
 
-Istruzioni di utilizzo:
+[mongoose](https://mongoosejs.com/)
 
-```
-git clone https://github.com/uollazzi/node-ts-starter.git <nome-progetto>
-```
-
-```
-git remote remove origin
-```
+[https://www.mongodb.com/docs/drivers/node/current/](https://www.mongodb.com/docs/drivers/node/current/)
